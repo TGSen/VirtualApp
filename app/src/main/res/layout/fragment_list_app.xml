@@ -60,7 +60,7 @@
         android:textSize="17sp"
         tools:ignore="HardcodedText" />-->
 
-    <include layout="@layout/main_fun_btn"/>
+    <include layout="@layout/main_fun_add"/>
 <!--    <androidx.appcompat.widget.AppCompatImageView
         android:id="@+id/select_app_install_btn"
         android:layout_width="@dimen/dp_80"

@@ -8,9 +8,9 @@ import java.util.HashMap;
 import java.util.Map;
 
 import com.carlos.R;
-import com.carlos.common.App;
 import com.carlos.home.ListAppActivity;
 import com.carlos.home.ListAppFragment;
+import com.carlos.common.App;
 import com.kook.common.utils.HVLog;
 
 /**

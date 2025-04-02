@@ -104,7 +104,7 @@
                     android:scaleType="fitXY"
                     app:srcCompat="@drawable/no_application_list" />
 
-                <include layout="@layout/main_fun_btn"/>
+                <include layout="@layout/main_fun_add"/>
             </FrameLayout>
         </LinearLayout>
 

@@ -138,10 +138,11 @@ public class HomeActivity extends VActivity implements HomeContract.HomeView, La
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_home);
         mUiHandler = new Handler(Looper.getMainLooper());
+        Log.e("Harrisonsens","seeen");
 
         bindViews();
         initLaunchpad();
-        initMenu();
+//        initMenu();
         HomePresenterImpl homePresenter = new HomePresenterImpl(this);
         boolean gms = VirtualCore.get().isAppInstalled("com.google.android.gms");
         boolean gsf = VirtualCore.get().isAppInstalled("com.google.android.gsf");

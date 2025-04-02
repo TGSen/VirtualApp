@@ -6,7 +6,7 @@
     android:orientation="vertical">
 
 
-    <include layout="@layout/head_top" />
+    <include layout="@layout/layout_head_top" />
 <!--    <androidx.appcompat.widget.Toolbar
         android:id="@+id/clone_app_tool_bar"
         android:layout_width="match_parent"

@@ -18,4 +18,10 @@ ext {
     signing_storePassword       = "scorpion123"
     signing_keyAlias            = "scorpion"
     signing_keyPassword         = "scorpion123"
+
+
+//    signing_storeFile           = "${rootDir}/security/app.ijks"
+//    signing_storePassword       = "19911110sen"
+//    signing_keyAlias            = "app"
+//    signing_keyPassword         = "19911110sen"
 }
